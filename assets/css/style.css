@@ -161,7 +161,7 @@ html, body {
 }
 
 
-body { background: url("./assets/images/wallhaven-p9gr2p.jpg") no-repeat center center fixed; 
+body { background-image: url("./assets/images/wallhaven-p9gr2p.jpg") no-repeat center center fixed; 
   background-size: cover;
   position: relative}
 
